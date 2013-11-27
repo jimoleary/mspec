@@ -6,6 +6,7 @@ Simple BDD based runner (will matchers "borrowed" from jasmine)
 
 ## sample suite 
 
+ ```javascript
    /**
     * test suite
     */
@@ -43,3 +44,4 @@ Simple BDD based runner (will matchers "borrowed" from jasmine)
        });
    
    })() // <-- this runs it , you can also pass in patterns like /compare a number/
+ ```
